@@ -1,0 +1,49 @@
+{
+  "dependency": {
+    "Product Name": {
+      "n": 15,
+      "n80_rev": 5,
+      "n80_profit": 5,
+      "top1": 0.20715881801487115,
+      "top1_name": "Wonka Bar - Scrumdiddlyumptious",
+      "top3": 0.5929945378349107,
+      "hhi_profit": 0.1831460817568736
+    },
+    "Factory": {
+      "n": 5,
+      "n80_rev": 2,
+      "n80_profit": 2,
+      "top1": 0.5647417457524817,
+      "top1_name": "Lot's O' Nuts",
+      "top3": 0.997073289755872,
+      "hhi_profit": 0.4699686416688319
+    },
+    "Division": {
+      "n": 3,
+      "n80_rev": 1,
+      "n80_profit": 1,
+      "top1": 0.9505774655725214,
+      "top1_name": "Chocolate",
+      "top3": 1.0,
+      "hhi_profit": 0.905757483379159
+    },
+    "State/Province": {
+      "n": 59,
+      "n80_rev": 16,
+      "n80_profit": 16,
+      "top1": 0.19776183932844477,
+      "top1_name": "California",
+      "top3": 0.40250709524971423,
+      "hhi_profit": 0.07650649057661443
+    },
+    "Region": {
+      "n": 4,
+      "n80_rev": 3,
+      "n80_profit": 3,
+      "top1": 0.32625242394277565,
+      "top1_name": "Pacific",
+      "top3": 0.8426773384359202,
+      "hhi_profit": 0.2663931693469502
+    }
+  }
+}

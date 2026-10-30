@@ -1,0 +1,15 @@
+{
+  "raw_rows": 10194,
+  "missing_units_filled": 0,
+  "profit_mismatch_rows": 0,
+  "invalid_rows_removed": 0,
+  "rows_identical_except_row_id_kept": 313,
+  "duplicates_removed": 0,
+  "ship_lag_min_max_days": [
+    904,
+    1642
+  ],
+  "note": "Ship Date is 2.5-4.5 years after Order Date in every row, so shipping-time analysis is excluded; Order Date drives all time filters.",
+  "clean_rows": 10194,
+  "unmapped_products": 0
+}
